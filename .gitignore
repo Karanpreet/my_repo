@@ -1,3 +1,5 @@
 build/*
 docs/*
 dist/*
+.DS_Store
+.project
